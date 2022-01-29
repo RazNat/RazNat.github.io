@@ -24,4 +24,3 @@
 <a class="anchor" id="contact"></a>
 >## Contact Information
 > [RajatNathan](www.linkedin.com/in/rajatnathan) - LinkedIn
-
