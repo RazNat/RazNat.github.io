@@ -14,11 +14,10 @@
 <a class="anchor" id="tools"></a>
 > ## Tools
 > The following tools were used for the projects listed here:
-1. Python, Java, Flask, Jinja, HTML
+1. Python, Java, Flask, Jinja, HTML, CSS, Markdown
 2. mySQL/mongoDB
 3. Debezium | Apache Maven
-4. Docker, Mapbox
-5. Markdown
+4. Tools: Docker, Mapbox, Springboot, Bootstrap
 
 <a class="anchor" id="project_pages"></a>
 >## Project List
