@@ -22,8 +22,8 @@
 
 <a class="anchor" id="project_pages"></a>
 >## Project List
->[PCDE-Activity-9.1](https://raznat.github.io/PCDE-Activity-9.1/)
->[LocationBasedAnalytics](https://github.com/RazNat/LocationBasedAnalytics/)
+1.[PCDE-Activity-9.1](https://raznat.github.io/PCDE-Activity-9.1/)
+2.[LocationBasedAnalytics](https://github.com/RazNat/LocationBasedAnalytics/)
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
