@@ -13,8 +13,8 @@
 
 <a class="anchor" id="tools"></a>
 > ## Tools
-> The following tools were used for the project:
-1. Python
+> The following tools were used for the projects listed here:
+1. Python, Java
 2. Markdown
 3. mySQL/mongoDB
 4. Debezium | Apache Maven
@@ -22,8 +22,8 @@
 
 <a class="anchor" id="project_pages"></a>
 >## Project List
-1.[PCDE-Activity-9.1](https://raznat.github.io/PCDE-Activity-9.1/)
-2.[LocationBasedAnalytics](https://github.com/RazNat/LocationBasedAnalytics/)
+1. [PCDE-Activity-9.1](https://raznat.github.io/PCDE-Activity-9.1/)
+2. [LocationBasedAnalytics](https://github.com/RazNat/LocationBasedAnalytics/)
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
