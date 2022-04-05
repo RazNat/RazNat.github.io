@@ -9,16 +9,16 @@
 
 <a class="anchor" id="about_the_project"></a>
 > ## About the Project
-> This is test project to establish the poc on github pages.
+> This is an epic to showcase projects on github pages.
 
 <a class="anchor" id="tools"></a>
 > ## Tools
 > The following tools were used for the projects listed here:
 1. Python, Java
-2. Markdown
-3. mySQL/mongoDB
-4. Debezium | Apache Maven
-5. Docker
+2. mySQL/mongoDB
+3. Debezium | Apache Maven
+4. Docker, Mapbox
+5. Markdown
 
 <a class="anchor" id="project_pages"></a>
 >## Project List
