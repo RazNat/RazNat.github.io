@@ -22,7 +22,7 @@
 <a class="anchor" id="project_pages"></a>
 >## Project List
 1. [Books Website](https://github.com/RazNat/BooksWebsite/)
-2. [LocationBasedAnalytics](https://github.com/RazNat/LocationBasedAnalytics/)
+2. [GeoLocationBasedAnalytics](https://github.com/RazNat/LocationBasedAnalytics/)
 3. [HousingPredictionModel](https://github.com/RazNat/PredictionModelHousing_LinearRegression)
 
 <a class="anchor" id="contact"></a>
