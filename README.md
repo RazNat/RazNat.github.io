@@ -16,10 +16,14 @@
 > The following tools were used for the project:
 1. Python
 2. Markdown
+3. mySQL/mongoDB
+4. Debezium | Apache Maven
+5. Docker
 
 <a class="anchor" id="project_pages"></a>
 >## Project List
 >[PCDE-Activity-9.1](https://raznat.github.io/PCDE-Activity-9.1/)
+>[LocationBasedAnalytics](https://github.com/RazNat/LocationBasedAnalytics/)
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
