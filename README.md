@@ -9,7 +9,7 @@
 
 <a class="anchor" id="about_the_project"></a>
 > ## About the Project
-> This is an epic to showcase projects on github pages.
+> This is an epic to showcase my recent projects on github pages.
 
 <a class="anchor" id="tools"></a>
 > ## Tools
