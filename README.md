@@ -18,12 +18,14 @@
 2. mySQL/mongoDB
 3. Debezium | Apache Maven
 4. Tools: Docker, Mapbox, Springboot, Bootstrap
+5. Python Packages for ML : Pandas, NumPy, scikit-learn, Matplotlib, seaborn
 
 <a class="anchor" id="project_pages"></a>
 >## Project List
 1. [Books Website](https://github.com/RazNat/BooksWebsite/)
 2. [GeoLocationBasedAnalytics](https://github.com/RazNat/LocationBasedAnalytics/)
 3. [HousingPredictionModel](https://github.com/RazNat/PredictionModelHousing_LinearRegression)
+4. [ML_Models_OptionsStrategy](https://github.com/RazNat/ML_OptionsStrategyAlgo.git)
 
 <a class="anchor" id="contact"></a>
 >## Contact Information
