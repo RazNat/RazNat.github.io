@@ -22,7 +22,7 @@
 
 <a class="anchor" id="project_pages"></a>
 >## Project List
-1. [StAndrewsMaple - website implementation](standrewsmaple.ca)
+1. [StAndrewsMaple - website implementation](https://standrewsmaple.ca)
 2. [AI Chatbot](https://github.com/RazNat/AI_chatbot/)
 3. [Books Website](https://github.com/RazNat/BooksWebsite/)
 4. [GeoLocationBasedAnalytics](https://github.com/RazNat/LocationBasedAnalytics/)
